@@ -21,7 +21,10 @@
         },
         {
             "path": "force-app-3",
-            "default": false
+            "default": false,
+            "package": "harishtest123",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         },
         {
             "path": "force-di",
@@ -49,6 +52,7 @@
         "force-di@0.1.0-4": "04t1N000000Cr7oQAC",
         "Pack1": "0Ho0b000000GmfYCAS",
         "Pack1@1.0.1.0": "04t0b000001r7eDAAQ",
-        "pack2": "0Ho0b000000GmfdCAC"
+        "pack2": "0Ho0b000000GmfdCAC",
+        "harishtest123": "0Ho0o000000fxYiCAI"
     }
 }
