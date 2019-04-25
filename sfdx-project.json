@@ -1,62 +1,62 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-di",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": true,
-            "package": "force-di"
-        },
-        {
-            "path": "force-di-trigger-demo",
-            "default": false
-        },
-        {
-            "path": "force-app-1",
-            "default": false,
-            "package": "new",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
-        },
-        {
-            "path": "force-app-2",
-            "default": false
-        },
-        {
-            "path": "force-app-3",
-            "default": false,
-            "package": "harishtest123",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
-        },
-        {
-            "path": "force-di",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false,
-            "package": "Pack1"
-        },
-        {
-            "path": "force-di",
-            "package": "pack2",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        }
-    ],
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "44.0",
-    "packageAliases": {
-        "force-di": "0Ho1N000000GmaTSAS",
-        "force-di@0.1.0-1": "04t1N000000Cr1fQAC",
-        "force-di@0.1.0-2": "04t1N000000Cr1zQAC",
-        "force-di@0.1.0-3": "04t1N000000Cr2dQAC",
-        "force-di@0.1.0-4": "04t1N000000Cr7oQAC",
-        "Pack1": "0Ho0b000000GmfYCAS",
-        "Pack1@1.0.1.0": "04t0b000001r7eDAAQ",
-        "pack2": "0Ho0b000000GmfdCAC",
-        "harishtest123": "0Ho0o000000fxYiCAI",
-        "new": "0Ho0o000000fxaeCAA"
-    }
+  "packageDirectories" : [ {
+    "path" : "force-di",
+    "default" : false,
+    "package" : "force-di",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "force-di",
+    "default" : false,
+    "package" : "Pack1",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "force-app-1",
+    "default" : false,
+    "package" : "new",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "force-app-2",
+    "default" : false
+  }, {
+    "path" : "force-di-trigger-demo",
+    "default" : false
+  }, {
+    "path" : "test_1",
+    "default" : true,
+    "package" : "test_1",
+    "versionName" : "test_1",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "force-app-3",
+    "default" : false,
+    "package" : "harishtest123",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "force-di",
+    "default" : false,
+    "package" : "pack2",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "44.0",
+  "packageAliases" : {
+    "force-di" : "0Ho1N000000GmaTSAS",
+    "force-di@0.1.0-1" : "04t1N000000Cr1fQAC",
+    "force-di@0.1.0-2" : "04t1N000000Cr1zQAC",
+    "force-di@0.1.0-3" : "04t1N000000Cr2dQAC",
+    "force-di@0.1.0-4" : "04t1N000000Cr7oQAC",
+    "Pack1" : "0Ho0b000000GmfYCAS",
+    "Pack1@1.0.1.0" : "04t0b000001r7eDAAQ",
+    "pack2" : "0Ho0b000000GmfdCAC",
+    "harishtest123" : "0Ho0o000000fxYiCAI",
+    "new" : "0Ho0o000000fxaeCAA",
+    "test_1" : "0Ho0o000000009hCAA",
+    "test_1@1.0.0.0" : "04t0o000003QMayAAG"
+  }
 }
