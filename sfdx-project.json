@@ -1,54 +1,54 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-di",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": true,
-            "package": "force-di"
-        },
-        {
-            "path": "force-di-trigger-demo",
-            "default": false
-        },
-        {
-            "path": "force-app-1",
-            "default": false
-        },
-        {
-            "path": "force-app-2",
-            "default": false
-        },
-        {
-            "path": "force-app-3",
-            "default": false
-        },
-        {
-            "path": "force-di",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false,
-            "package": "Pack1"
-        },
-        {
-            "path": "force-di",
-            "package": "pack2",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
-        }
-    ],
-    "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "44.0",
-    "packageAliases": {
-        "force-di": "0Ho1N000000GmaTSAS",
-        "force-di@0.1.0-1": "04t1N000000Cr1fQAC",
-        "force-di@0.1.0-2": "04t1N000000Cr1zQAC",
-        "force-di@0.1.0-3": "04t1N000000Cr2dQAC",
-        "force-di@0.1.0-4": "04t1N000000Cr7oQAC",
-        "Pack1": "0Ho0b000000GmfYCAS",
-        "Pack1@1.0.1.0": "04t0b000001r7eDAAQ",
-        "pack2": "0Ho0b000000GmfdCAC"
-    }
+  "packageDirectories" : [ {
+    "path" : "force-app-2",
+    "default" : false
+  }, {
+    "path" : "force-di-trigger-demo",
+    "default" : false
+  }, {
+    "path" : "force-di",
+    "default" : false,
+    "package" : "force-di",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "force-di",
+    "default" : false,
+    "package" : "Pack1",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "vbg",
+    "default" : true,
+    "package" : "vbg",
+    "versionName" : "vbg",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "force-app-1",
+    "default" : false
+  }, {
+    "path" : "force-app-3",
+    "default" : false
+  }, {
+    "path" : "force-di",
+    "default" : false,
+    "package" : "pack2",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "44.0",
+  "packageAliases" : {
+    "force-di" : "0Ho1N000000GmaTSAS",
+    "force-di@0.1.0-1" : "04t1N000000Cr1fQAC",
+    "force-di@0.1.0-2" : "04t1N000000Cr1zQAC",
+    "force-di@0.1.0-3" : "04t1N000000Cr2dQAC",
+    "force-di@0.1.0-4" : "04t1N000000Cr7oQAC",
+    "Pack1" : "0Ho0b000000GmfYCAS",
+    "Pack1@1.0.1.0" : "04t0b000001r7eDAAQ",
+    "pack2" : "0Ho0b000000GmfdCAC",
+    "vbg" : "0Ho2v000000XZGZCA4",
+    "vbg@1.0.0.0" : "04t2v000002kRffAAE"
+  }
 }
